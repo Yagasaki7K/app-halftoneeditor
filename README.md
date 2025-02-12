@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/df8b39a5-1719-46d6-a29f-bc847949135b)
+
 # Halftone Editor like a OpenAI
 
 This project implements a **Halftone Image Processing Tool**. The tool allows users to upload images or videos, apply halftone effects, and export the results as PNG files. Here's a breakdown of its structure and functionality like a OpenAI.
